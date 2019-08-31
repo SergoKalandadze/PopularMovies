@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="movies_load_error">An error occured while loading the movies</string>
+    <string name="retry">Retry</string>
+    <string name="release_date">Release Date:</string>
+    <string name="rating">Rating:</string>
+    <string name="show_liked">Show Liked</string>
+    <string name="like">Like!</string>
+    <string name="backdrop_description">Movie scenes</string>
+    <string name="title_activity_liked_movies">Liked Movies</string>
+    <string name="no_liked_movies">Nothing Liked Yet</string>
+</resources>
